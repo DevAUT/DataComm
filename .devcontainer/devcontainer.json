@@ -1,6 +1,7 @@
+
 {
-  "name": "Docker Development Environment",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "name": "ns-3 Development Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:noble",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
