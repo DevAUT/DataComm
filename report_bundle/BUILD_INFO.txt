@@ -1,0 +1,20 @@
+BUILD AND SIMULATION INFORMATION
+
+Simulator: ns-3
+Version: 3.46
+Git commit: ea50b72ab79b1ec5912c66d5b384effa829f18bc
+Build profile: optimized
+Compiler: GCC
+Parallel build jobs: 1
+Simulation command:
+./ns3 run "arq-hw3 --mode=all --outFile=/workspaces/DataComm/results/ns3_results.csv"
+
+Experiment records: 37
+CSV lines including header: 38
+
+Experiment groups:
+p1_delay: 3
+p1_loss: 5
+p2_gbn_bdp: 12
+p3_buffer: 5
+p3_compare: 12

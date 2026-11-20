@@ -1,0 +1,2 @@
+experiment,protocol,delay_ms,rtt_propagation_ms,loss_probability,window,buffer_capacity,payload_bytes,rate_mbps,simulation_s,timeout_ms,seed,unique_delivered,goodput_mbps,mean_delivery_delay_ms,retransmissions,retransmissions_per_unique,timeout_count,data_drops,ack_drops,buffer_overflow,peak_buffer_occupancy
+single,sr,5.000000,10.000000,0.000000,4,20,1000,10.000000,0.300000,100.000000,12345,111,2.960000,5.849146,0,0.000000,0,0,0,0,0
